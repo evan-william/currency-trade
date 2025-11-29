@@ -125,6 +125,6 @@ Project ini dipersembahkan oleh kelompok mahasiswa yang berdedikasi tinggi:
 
 <div align="center">
   <br />
-  <p>Dibuat dengan ❤️ dan ☕ untuk Tugas Kelompok Universitas • 2025</p>
+  <p>Dibuat untuk Tugas Kelompok Universitas • 2025</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=100&section=footer"/>
 </div>

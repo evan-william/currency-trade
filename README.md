@@ -115,8 +115,8 @@ Project ini dipersembahkan oleh kelompok mahasiswa yang berdedikasi tinggi:
   <tr>
     <td align="center"><img src="https://ui-avatars.com/api/?name=Evan+William&background=0D8ABC&color=fff&size=100&rounded=true" width="80px"/><br /><sub><b>Evan William</b></sub><br />🚀 <i>Lead Developer & Architecture</i></td>
     <td align="center"><img src="https://ui-avatars.com/api/?name=Netanya+Caren&background=FF4081&color=fff&size=100&rounded=true" width="80px"/><br /><sub><b>Netanya Caren</b></sub><br />🎨 <i>UI/UX Design & News</i></td>
-    <td align="center"><img src="https://ui-avatars.com/api/?name=Jap+Robertus&background=4CAF50&color=fff&size=100&rounded=true" width="80px"/><br /><sub><b>Jap Robertus</b></sub><br />⚙️ <i>Backend Logic & Data</i></td>
-    <td align="center"><img src="https://ui-avatars.com/api/?name=Calvin+Liu&background=FFC107&color=fff&size=100&rounded=true" width="80px"/><br /><sub><b>Calvin Liu</b></sub><br />🤖 <i>AI & Voice Integration</i></td>
+    <td align="center"><img src="https://ui-avatars.com/api/?name=Jap+Robertus&background=4CAF50&color=fff&size=100&rounded=true" width="80px"/><br /><sub><b>Jap Robertus</b></sub><br />⚙️ <i>AI & Voice Integration</i></td>
+    <td align="center"><img src="https://ui-avatars.com/api/?name=Calvin+Liu&background=FFC107&color=fff&size=100&rounded=true" width="80px"/><br /><sub><b>Calvin Liu</b></sub><br />🤖 <i>Backend Logic & Data</i></td>
   </tr>
 </table>
 </div>

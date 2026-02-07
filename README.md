@@ -31,7 +31,7 @@
 
 ---
 
-## ⚡ Ikhtisar Project
+## Ikhtisar Project
 
 **NovaTrade Terminal** bukan sekadar aplikasi konversi mata uang biasa. Ini adalah **workspace finansial profesional** yang muat di saku Anda. Terinspirasi oleh estetika *Bloomberg Terminal*, aplikasi ini menggabungkan performa rendering tinggi Flutter dengan kecerdasan **Google Gemini AI**.
 
@@ -39,34 +39,34 @@ Apakah Anda ingin melacak volatilitas pasar, berkonsultasi dengan "Robovan" (AI 
 
 ---
 
-## 💎 Fitur Utama
+## Fitur Utama
 
-### 1. 📈 Dashboard Pasar Profesional
+### 1. Dashboard Pasar Profesional
 Visualisasi data tingkat institusional. Bukan grafik biasa, ini adalah alat analisis.
 * **Visualisasi Dinamis:** Chart interaktif dengan mode **Area (Gradient Fill)**, **Candlestick**, dan **Line**.
 * **Simulasi Volatilitas:** Melihat pergerakan pasar secara real-time dengan toggle **Grid** dan **Volume**.
 * **Indeks Kekuatan:** Peringkat otomatis mata uang terkuat hingga terlemah berdasarkan *Base Currency* pilihan Anda.
 
-### 2. 🧠 Robovan AI (Integrasi Gemini)
+### 2. Robovan AI (Integrasi Gemini)
 Asisten pribadi yang lebih pintar dari sekadar chatbot.
 * **Sadar Konteks:** AI mengetahui harga yang sedang tampil di layar Anda secara *real-time*.
 * **Analisis Pakar:** Tanyakan "Kenapa IDR melemah hari ini?" dan dapatkan jawaban berbasis data.
 * **Format Markdown:** Jawaban disajikan rapi dengan *bold*, *italic*, dan *list*.
 
-### 3. 🎤 Pusat Perintah Suara (Voice Command)
+### 3. Pusat Perintah Suara (Voice Command)
 Interaksi tanpa sentuhan dengan animasi gelombang suara yang memukau.
 * **Animasi Fluid:** Visualisasi gelombang suara yang bereaksi terhadap intonasi bicara Anda (mirip Siri).
 * **Speech-to-Text & TTS:** Bicara dalam Bahasa Indonesia, dan aplikasi akan menjawab serta berbicara kembali kepada Anda.
 * **Hands-Free:** Lakukan konversi mata uang saat tangan Anda sibuk.
 
-### 4. 📰 Berita Ekonomi Global
+### 4. Berita Ekonomi Global
 Tetap terupdate dengan sentimen pasar dunia.
 * **Real-time Feed:** Kurasi berita ekonomi terkini dengan gambar berkualitas tinggi.
 * **Akses Langsung:** Tap untuk membaca artikel lengkap langsung di browser.
 
 ---
 
-## 🛠️ Arsitektur Teknologi
+## Arsitektur Teknologi
 
 Aplikasi ini dibangun dengan standar industri tertinggi menggunakan **Flutter** & **Dart**.
 
@@ -82,7 +82,7 @@ Aplikasi ini dibangun dengan standar industri tertinggi menggunakan **Flutter** 
 
 ---
 
-## 🚀 Cara Menjalankan (Installation)
+## Cara Menjalankan (Installation)
 
 Ingin mencoba kecanggihan NovaTrade di mesin lokal Anda? Ikuti langkah ini:
 
@@ -106,7 +106,7 @@ Ingin mencoba kecanggihan NovaTrade di mesin lokal Anda? Ikuti langkah ini:
 
 ---
 
-## 👥 Tim Pengembang
+## Tim Pengembang
 
 Project ini dipersembahkan oleh kelompok mahasiswa yang berdedikasi tinggi:
 
